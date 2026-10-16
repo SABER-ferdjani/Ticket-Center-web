@@ -1,7 +1,7 @@
 // src/components/layout/Navbar.jsx
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
+import { 
   faSun,
   faMoon,
   faHouse,
